@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232791528867",
+    "project_id": "kupha-57ba4",
+    "storage_bucket": "kupha-57ba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232791528867:android:4a9b35ef155f89bae73616",
+        "android_client_info": {
+          "package_name": "com.kupha.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-82xqbv5T90Zoa_8vISBbj-mVqfUrdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
